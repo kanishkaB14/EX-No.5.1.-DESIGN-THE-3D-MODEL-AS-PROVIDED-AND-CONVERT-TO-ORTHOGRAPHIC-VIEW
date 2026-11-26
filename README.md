@@ -33,9 +33,10 @@ Switch to drawing mode from design mode
 2. Select the projected view to generate orthographic projections
 
 ## INPUT
-![image](https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png)
+
 
 ## OUTPUT
+<img width="1536" height="1024" alt="WhatsApp Image 2026-11-26 at 9 13 29 AM" src="https://github.com/user-attachments/assets/40c7f407-92fe-4986-8df5-90aa190fbf4e" />
 
 
 ## RESULT:
